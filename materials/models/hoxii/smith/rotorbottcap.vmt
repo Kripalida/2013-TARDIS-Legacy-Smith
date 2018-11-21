@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/rotorbottcap"
+	"$surfaceprop" "Plastic"
+	"$nodecal" "1"
+}

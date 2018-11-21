@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/yellow"
+	"$selfillum" 1
+        "$selfillummask" "models/hoxii/smith/white"
+	"$nodecal" "1"
+}

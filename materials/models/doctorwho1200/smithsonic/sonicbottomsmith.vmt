@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/smithsonic/sonicbottomsmith"
+	"$nodecal" "1"
+	"$surfaceprop" "Plastic"
+}

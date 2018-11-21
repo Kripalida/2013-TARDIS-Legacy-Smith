@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/chairs"
+	"$surfaceprop" "Plastic"
+	"$nodecal" "1"
+}

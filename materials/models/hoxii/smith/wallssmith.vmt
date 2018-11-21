@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/wallssmith"
+	"$surfaceprop" "cardboard"
+	"$nodecal" "1"
+}

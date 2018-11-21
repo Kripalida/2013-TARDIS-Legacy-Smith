@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/rails"
+	"$surfaceprop" "Metal"
+	"$nodecal" "1"
+	"$envmap" "models/hoxii/smith/environment"
+	"$envmaptint" "[0.5 0.5 0.5]"
+}

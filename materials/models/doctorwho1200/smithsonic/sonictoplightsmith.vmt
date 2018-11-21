@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/smithsonic/sonictopsmith"
+	"$nodecal" "1"
+	"$selfillum" "1"
+        "$selfillummask" "models/doctorwho1200/smithsonic/white"
+	"$surfaceprop" "Metal"
+}

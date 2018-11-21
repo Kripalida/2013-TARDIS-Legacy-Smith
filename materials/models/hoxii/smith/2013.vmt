@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/2013"
+	"$bumpmap" "models/hoxii/smith/2013n"
+	"$normalmap" "models/hoxii/smith/2013n"
+	"$surfaceprop" "Wood_Solid"
+	"$nodecal" "1"
+}

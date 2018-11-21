@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$additive" 1
+	"$basetexture" "models/hoxii/smith/Glass"
+	"$envmap" "models/hoxii/smith/environment"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$model" 1
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[ 8 4 8 ]"
+	"$nodecal" "1"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/hullstruts"
+	"$surfaceprop" "Metal"
+	"$nodecal" "1"
+}

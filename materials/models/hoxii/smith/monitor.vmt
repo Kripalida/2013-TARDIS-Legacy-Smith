@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/monitor"
+	"$surfaceprop" "Plastic"
+	"$nodecal" "1"
+	"$nocull" "1"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/windows2"
+	"$bumpmap" "models/hoxii/smith/windowsn"
+	"$normalmap" "models/hoxii/smith/windowsn"
+	"$surfaceprop" "Glass"
+	"$selfillum" 1
+        "$selfillummask" "models/hoxii/smith/white"
+	"$envmap" "models/hoxii/smith/environment"
+	"$envmaptint" "[0.8 0.8 0.8]"
+	"$nodecal" "1"
+}

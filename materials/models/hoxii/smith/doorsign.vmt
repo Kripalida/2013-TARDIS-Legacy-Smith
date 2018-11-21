@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/doorsign"
+	"$selfillum" 1
+        "$selfillummask" "models/hoxii/smith/white"
+	"$surfaceprop" "Plastic"
+	"$nodecal" "1"
+}

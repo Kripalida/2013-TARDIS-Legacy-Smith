@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/neonorange"
+	"$selfillum" 1
+        "$selfillummask" "models/hoxii/smith/white"
+	"$envmap" "models/hoxii/smith/environment"
+	"$envmaptint" "[0.5 0.5 0.5]"
+}

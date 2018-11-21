@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/corridors"
+	"$surfaceprop" "Plastic"
+	"$nodecal" "1"
+}

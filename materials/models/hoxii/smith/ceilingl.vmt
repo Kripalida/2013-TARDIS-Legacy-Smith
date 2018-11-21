@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/ceilingl"
+	"$surfaceprop" "Plastic"
+	"$selfillum" 1
+        "$selfillummask" "models/hoxii/smith/white"
+	"$nodecal" "1"
+}

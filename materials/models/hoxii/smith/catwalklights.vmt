@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoxii/smith/catwalklights"
+	"$surfaceprop" "water"
+	"$selfillum" 1
+        "$selfillummask" "models/hoxii/smith/white"
+	"$nodecal" "1"
+		"Proxies"
+		{
+			"AnimatedTexture"
+				{
+					"animatedTextureVar" "$basetexture"
+					"animatedTextureFrameNumVar" "$frame"
+					"animatedTextureFrameRate" "15"
+				}
+		}
+}
